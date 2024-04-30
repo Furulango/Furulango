@@ -11,5 +11,5 @@
             |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
 ```
 
-[![Spotify Track](SPOTIFY_IMAGE_URL)](https://open.spotify.com/track/3TYzES2lL8BTPE4uudj0Hj?utm_source=generator&theme=0)
+[Listen on Spotify](https://open.spotify.com/track/3TYzES2lL8BTPE4uudj0Hj?utm_source=generator&theme=0)
 
