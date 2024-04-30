@@ -11,7 +11,6 @@
             |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
 ```
 ### Currently Listening To 🎧
-### Currently Listening To 🎧
 <p align="left">
-  <img width="320" height="445" src="https://widget.nowplaying.site/jRfnhyliZpintrp7">
+<iframe src="https://widget.nowplaying.site/jRfnhyliZpintrp7" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </p>
