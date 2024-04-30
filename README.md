@@ -11,6 +11,5 @@
             |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
 ```
 ### Currently Listening To 🎧
-<p align="left">
-<iframe src="https://widget.nowplaying.site/jRfnhyliZpintrp7" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</p>
+
+[![Spotify](https://widget.nowplaying.site/jRfnhyliZpintrp7)](https://open.spotify.com/user/USER_NAME)
