@@ -27,4 +27,22 @@
 ### K8s · AWS · LoL
 [![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47)
 
+![cat](./cat.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
